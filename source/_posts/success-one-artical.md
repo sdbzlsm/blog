@@ -1,4 +1,5 @@
-title: 雪丽第二篇blog
-date: 2015-11-10 11:03:26
-tags:随心
+title: 雪丽第一篇blog
 ---
+Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documentation](http://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](http://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
+More info: [Deployment](http://hexo.io/docs/deployment.html)
