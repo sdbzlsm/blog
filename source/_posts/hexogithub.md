@@ -1,7 +1,6 @@
 title:hexo+github搭建个人blog详细教程
 ---
 ###github page 搭建博客
-
 1、点击“New repository”，新建一个版本库
 2、输入Repository name:yourname.github.io(yourname与你的注册用户名一致,这个就是你博客的域名了)
 3、点击“create repository”
